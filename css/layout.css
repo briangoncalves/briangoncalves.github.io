@@ -457,21 +457,9 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: oracle 2s ease;
 }
 
-@-moz-keyframes photoshop {
-  0%   { width: 0px;  }
-  100% { width: 60%;  }
-}
-@-moz-keyframes illustrator {
-  0%   { width: 0px;  }
-  100% { width: 55%;  }
-}
-@-moz-keyframes wordpress {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
-}
 @-moz-keyframes css {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 70%;  }
 }
 @-moz-keyframes html {
   0%   { width: 0px;  }
@@ -479,24 +467,40 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes jquery {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 70%;  }
 }
-
-@-webkit-keyframes photoshop {
+@-moz-keyframes unity {
+  0%   { width: 0px;  }
+  100% { width: 70%;  }
+}
+@-moz-keyframes javascript {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-moz-keyframes angular {
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
-@-webkit-keyframes illustrator {
-  0%   { width: 0px;  }
-  100% { width: 55%;  }
-}
-@-webkit-keyframes wordpress {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
-}
-@-webkit-keyframes css {
+@-moz-keyframes dotNET {
   0%   { width: 0px;  }
   100% { width: 90%;  }
+}
+@-moz-keyframes delphi {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
+@-moz-keyframes sqlServer {
+  0%   { width: 0px;  }
+  100% { width: 85%;  }
+}
+@-moz-keyframes oracle {
+  0%   { width: 0px;  }
+  100% { width: 85%;  }
+}
+
+@-webkit-keyframes css {
+  0%   { width: 0px;  }
+  100% { width: 70%;  }
 }
 @-webkit-keyframes html {
   0%   { width: 0px;  }
@@ -504,7 +508,35 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes jquery {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 70%;  }
+}
+@-webkit-keyframes unity {
+  0%   { width: 0px;  }
+  100% { width: 70%;  }
+}
+@-webkit-keyframes javascript {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-webkit-keyframes angular {
+  0%   { width: 0px;  }
+  100% { width: 60%;  }
+}
+@-webkit-keyframes dotNET {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
+@-webkit-keyframes delphi {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
+@-webkit-keyframes sqlServer {
+  0%   { width: 0px;  }
+  100% { width: 85%;  }
+}
+@-webkit-keyframes oracle {
+  0%   { width: 0px;  }
+  100% { width: 85%;  }
 }
 
 /* ------------------------------------------------------------------ */
