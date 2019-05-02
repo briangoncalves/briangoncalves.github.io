@@ -410,8 +410,8 @@ ul#nav li.current a { color: #F06000; }
 }
 .html {
   	width: 80%;
-  	-moz-animation: html5 2s ease;
-  	-webkit-animation: html5 2s ease;
+  	-moz-animation: html 2s ease;
+  	-webkit-animation: html 2s ease;
 }
 .jquery {
   	width: 70%;
@@ -421,40 +421,40 @@ ul#nav li.current a { color: #F06000; }
 
 .unity {
   	width: 70%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+  	-moz-animation: unity 2s ease;
+  	-webkit-animation: unity 2s ease;
 }
 
 
 .javascript {
   	width: 80%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+  	-moz-animation: javascript 2s ease;
+  	-webkit-animation: javascript 2s ease;
 }
 .angular {
   	width: 60%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+  	-moz-animation: angular 2s ease;
+  	-webkit-animation: angular 2s ease;
 }
 .dotNET {
   	width: 90%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+  	-moz-animation: dotNET 2s ease;
+  	-webkit-animation: dotNET 2s ease;
 }
 .delphi {
   	width: 90%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+  	-moz-animation: delphi 2s ease;
+  	-webkit-animation: delphi 2s ease;
 }
 .sqlServer {
   	width: 85%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+  	-moz-animation: sqlServer 2s ease;
+  	-webkit-animation: sqlServer 2s ease;
 }
 .oracle {
   	width: 85%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+  	-moz-animation: oracle 2s ease;
+  	-webkit-animation: oracle 2s ease;
 }
 
 @-moz-keyframes photoshop {
@@ -473,7 +473,7 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
-@-moz-keyframes html5 {
+@-moz-keyframes html {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
@@ -498,7 +498,7 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
-@-webkit-keyframes html5 {
+@-webkit-keyframes html {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
