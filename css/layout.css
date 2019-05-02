@@ -273,6 +273,7 @@ ul#nav li.current a { color: #F06000; }
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
+   border-bottom: 1px solid #E8E8E8;
 }
 
 #skills a, #skills a:visited  { color: #11ABB0; }
