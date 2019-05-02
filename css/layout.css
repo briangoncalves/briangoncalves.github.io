@@ -309,6 +309,52 @@ ul#nav li.current a { color: #F06000; }
    margin-top: 6px;
 }
 
+/* ------------------------------------------------------------------ */
+/* d. otherProjects Section
+/* ------------------------------------------------------------------ */
+
+#otherProjects {
+   background: #fff;
+   padding-top: 90px;
+   padding-bottom: 72px;
+   overflow: hidden;
+}
+
+#otherProjects a, #otherProjects a:visited  { color: #11ABB0; }
+#otherProjects a:hover, #otherProjects a:focus { color: #313131; }
+
+#otherProjects h1 {
+   font: 18px/24px 'opensans-bold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+}
+#otherProjects h1 span {
+   border-bottom: 3px solid #11ABB0;
+   padding-bottom: 6px;
+}
+#otherProjects h3 {
+   font: 25px/30px 'opensans-bold', sans-serif;
+}
+
+#otherProjects .header-col { padding-top: 9px; }
+#otherProjects .main-col { padding-right: 10%; }
+
+#otherProjects .info {
+   font: 16px/24px 'librebaskerville-italic', serif;
+   color: #6E7881;
+   margin-bottom: 18px;
+   margin-top: 9px;
+}
+#otherProjects .info span {
+   margin-right: 5px;
+   margin-left: 5px;
+}
+#otherProjects .date {
+   font: 15px/24px 'opensans-regular', sans-serif;
+   margin-top: 6px;
+}
+
+
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/
@@ -368,6 +414,13 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
+
+.unity {
+  	width: 70%;
+  	-moz-animation: jquery 2s ease;
+  	-webkit-animation: jquery 2s ease;
+}
+
 
 .javascript {
   	width: 80%;
